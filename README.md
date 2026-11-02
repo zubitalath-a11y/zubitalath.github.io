@@ -1,4 +1,4 @@
-# BCA Course Website — Mrs. Sayeda Amena Talat
+# BCA Course Website — Mrs. Syeda Amena Talath
 
 Standalone course website for Government College Chamba, BCA Department.
 
@@ -12,7 +12,7 @@ Subjects: Data Structure, ASP.NET and VB.
 5. Wait for deployment.
 
 Expected URL after deployment:
-https://p-mahajan1.github.io/sayeda-amena-talat-bca/
+https://p-mahajan1.github.io/syeda-amena-talath-bca/
 
 ## Academic note
 The 15-week schedule and broad learning goals are proposed planning content, not an approved syllabus. Confirm topics and sequence against the current university/college syllabus. The assessment section is illustrative and does not assign marks. Add verified institutional email and approved consultation hours before sharing.
